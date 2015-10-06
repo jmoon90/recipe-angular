@@ -1,7 +1,8 @@
 {
   "name": "dsl-generated dependencies",
   "dependencies": {
-    "angular": "latest",
+    "angular": "1.4.7",
+    "angular-route": "latest",
     "bootstrap-sass-official": "latest"
   }
 }

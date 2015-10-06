@@ -50,5 +50,5 @@ group :test, :development do
 end
 
 #angular management
-gem 'bower-rails'
 gem 'angular-rails-templates'
+gem 'bower-rails'

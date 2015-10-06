@@ -51,3 +51,4 @@ end
 
 #angular management
 gem 'bower-rails'
+gem 'angular-rails-templates'

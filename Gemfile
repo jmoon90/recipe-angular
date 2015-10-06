@@ -49,6 +49,11 @@ group :test, :development do
   gem "database_cleaner"
 end
 
+
+#angular rails template breaks without this
+gem 'sprockets', '3.0.0'
 #angular management
 gem 'angular-rails-templates'
 gem 'bower-rails'
+
+gem 'listen', '~> 2.7'
